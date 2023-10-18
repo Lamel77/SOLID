@@ -1,0 +1,5 @@
+public class implements Shape  {
+    private void draw() {
+        System.out.println("Drawing a retangle");
+    }
+}
